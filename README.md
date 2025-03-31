@@ -39,7 +39,7 @@ Ensure you have the following installed on your system:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/menuscanorder.git
+   git clone https://github.com/yxiao66666/menuscanorder.git
    cd menuscanorder
    ```
 2. Install dependencies:
