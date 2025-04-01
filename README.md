@@ -27,6 +27,7 @@ The application is built using the **CodeIgniter MVC framework**, ensuring a str
 - **Frontend:** HTML, CSS, JavaScript
 - **Database:** MySQL
 - **QR Code Library:** EasyQRCodeJS
+- **Styles:** Bootstrap 5
 
 ## Installation
 ### Prerequisites
