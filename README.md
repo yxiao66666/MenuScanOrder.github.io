@@ -55,6 +55,43 @@ Ensure you have the following installed on your system:
    ```
 5. Access the application at `http://localhost:8000`.
 
+## Screenshots
+### Landing Page
+- The landing page of MenuScanOrder.
+<p align="center">
+  <img src = images/landing.jpg alt = "landing" width = 60% >
+<p>
+<p align="center">
+  Landing page Screenshots
+<p>
+   
+### Signin Page
+- Users can create new account or signin.
+<p align="center">
+  <img src = images/sign_in.jpg alt = "sign_in" width = 60% >
+<p>
+<p align="center">
+  Signin page Screenshots
+<p>
+   
+### My Store Page
+- Store owners can view current orders and make them as completed.
+<p align="center">
+  <img src = images/my_store.jpg alt = "my_store" width = 60% >
+<p>
+<p align="center">
+  My store page Screenshots
+<p>
+
+### User Management Page
+- Backend staff can manage user account.
+<p align="center">
+  <img src = images/user_management.jpg alt = "user_management" width = 60% >
+<p>
+<p align="center">
+  Sser management page Screenshots
+<p>
+
 ## Project Timeline
 This project follows a structured development timeline:
 1. **Planning**: Research and feasibility study.
