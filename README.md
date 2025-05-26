@@ -110,4 +110,4 @@ This project follows a structured development timeline:
 This project is licensed under the MIT License.
 
 ## Contributors
-- [yxiao66666](https://www.linkedin.com/in/yang~xiao/) 
+- [yxiao66666](https://www.linkedin.com/in/yxiao66666/) 
